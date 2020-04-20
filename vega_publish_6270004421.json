@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+
+  "description": "Number of passengers",
+  "width": 800,
+  "height":600,
+
+  "data": {"url": "https://raw.githubusercontent.com/NodKorakod/advmap/master/MRT_2017.csv"},
+
+   "title": "2017 Number of passengers MRT Blue Line in Bangkok, Thailand",
+
+  "selection": {
+    "pts": {
+      "type": "single"
+    }
+  },
+
+  "mark": {
+    "type": "line",
+    "point": {
+      "filled": false,
+      "fill": "white"
+    }
+  },
+
+  "encoding": {
+
+    "x": {
+    "timeUnit":"yearmonth",
+    "field": "month", 
+    "type": "temporal",
+    "title": "Month"
+  },
+
+    "y": {
+      "field": "number of passengers",
+      "type": "quantitative"
+  },
+
+    "color": {
+      "condition": {
+        "selection": "pts",
+        "field": "station", 
+        "type": "nominal"
+      },
+      "value": "grey"
+    },
+
+    "tooltip": [{
+        "field": "station", 
+        "type": "ordinal"
+      },
+      {
+        "field": "number of passengers", 
+        "type": "quantitative"
+    }]
+  }
+}
