@@ -1,0 +1,217 @@
+﻿station,month,number of passengers
+Bangsue,2017-01,407394
+Bangsue,2017-02,393804
+Bangsue,2017-03,459304
+Bangsue,2017-04,387952
+Bangsue,2017-05,429761
+Bangsue,2017-06,463511
+Bangsue,2017-07,456940
+Bangsue,2017-08,302773
+Bangsue,2017-09,164614
+Bangsue,2017-10,148332
+Bangsue,2017-11,152166
+Bangsue,2017-12,134171
+Kamphaengphet,2017-01,127461
+Kamphaengphet,2017-02,126835
+Kamphaengphet,2017-03,132333
+Kamphaengphet,2017-04,128775
+Kamphaengphet,2017-05,107238
+Kamphaengphet,2017-06,121473
+Kamphaengphet,2017-07,134978
+Kamphaengphet,2017-08,132479
+Kamphaengphet,2017-09,132701
+Kamphaengphet,2017-10,132985
+Kamphaengphet,2017-11,130121
+Kamphaengphet,2017-12,148047
+Chatuchak park,2017-01,568661
+Chatuchak park,2017-02,552833
+Chatuchak park,2017-03,641153
+Chatuchak park,2017-04,561960
+Chatuchak park,2017-05,813812
+Chatuchak park,2017-06,603928
+Chatuchak park,2017-07,602430
+Chatuchak park,2017-08,665525
+Chatuchak park,2017-09,682854
+Chatuchak park,2017-10,653416
+Chatuchak park,2017-11,699916
+Chatuchak park,2017-12,658539
+Phahonyothin,2017-01,522046
+Phahonyothin,2017-02,504924
+Phahonyothin,2017-03,574090
+Phahonyothin,2017-04,502383
+Phahonyothin,2017-05,738360
+Phahonyothin,2017-06,555900
+Phahonyothin,2017-07,552151
+Phahonyothin,2017-08,578694
+Phahonyothin,2017-09,563703
+Phahonyothin,2017-10,523164
+Phahonyothin,2017-11,560998
+Phahonyothin,2017-12,537489
+Latphrao,2017-01,514137
+Latphrao,2017-02,494548
+Latphrao,2017-03,567285
+Latphrao,2017-04,471926
+Latphrao,2017-05,797474
+Latphrao,2017-06,552532
+Latphrao,2017-07,536918
+Latphrao,2017-08,584035
+Latphrao,2017-09,568071
+Latphrao,2017-10,531724
+Latphrao,2017-11,571873
+Latphrao,2017-12,498594
+Ratchadaphisek,2017-01,147377
+Ratchadaphisek,2017-02,142665
+Ratchadaphisek,2017-03,165562
+Ratchadaphisek,2017-04,131795
+Ratchadaphisek,2017-05,235920
+Ratchadaphisek,2017-06,163650
+Ratchadaphisek,2017-07,155744
+Ratchadaphisek,2017-08,169890
+Ratchadaphisek,2017-09,161063
+Ratchadaphisek,2017-10,145557
+Ratchadaphisek,2017-11,161478
+Ratchadaphisek,2017-12,140948
+Sutthisan,2017-01,382200
+Sutthisan,2017-02,370355
+Sutthisan,2017-03,417631
+Sutthisan,2017-04,335416
+Sutthisan,2017-05,613388
+Sutthisan,2017-06,410597
+Sutthisan,2017-07,392239
+Sutthisan,2017-08,416081
+Sutthisan,2017-09,400860
+Sutthisan,2017-10,366390
+Sutthisan,2017-11,406525
+Sutthisan,2017-12,362635
+Huaikhwang,2017-01,529279
+Huaikhwang,2017-02,513750
+Huaikhwang,2017-03,579216
+Huaikhwang,2017-04,478380
+Huaikhwang,2017-05,779170
+Huaikhwang,2017-06,550502
+Huaikhwang,2017-07,539561
+Huaikhwang,2017-08,577043
+Huaikhwang,2017-09,552637
+Huaikhwang,2017-10,501724
+Huaikhwang,2017-11,557800
+Huaikhwang,2017-12,501013
+Thailand cultural centre,2017-01,576084
+Thailand cultural centre,2017-02,560368
+Thailand cultural centre,2017-03,648184
+Thailand cultural centre,2017-04,538940
+Thailand cultural centre,2017-05,881666
+Thailand cultural centre,2017-06,643961
+Thailand cultural centre,2017-07,614968
+Thailand cultural centre,2017-08,668594
+Thailand cultural centre,2017-09,655485
+Thailand cultural centre,2017-10,592582
+Thailand cultural centre,2017-11,657355
+Thailand cultural centre,2017-12,650060
+Phraram 9,2017-01,761330
+Phraram 9,2017-02,742701
+Phraram 9,2017-03,861486
+Phraram 9,2017-04,727820
+Phraram 9,2017-05,1193982
+Phraram 9,2017-06,838155
+Phraram 9,2017-07,808395
+Phraram 9,2017-08,858292
+Phraram 9,2017-09,824146
+Phraram 9,2017-10,764145
+Phraram 9,2017-11,832048
+Phraram 9,2017-12,780612
+Phetchaburi,2017-01,625019
+Phetchaburi,2017-02,622913
+Phetchaburi,2017-03,703533
+Phetchaburi,2017-04,568002
+Phetchaburi,2017-05,974954
+Phetchaburi,2017-06,648110
+Phetchaburi,2017-07,631009
+Phetchaburi,2017-08,714151
+Phetchaburi,2017-09,696976
+Phetchaburi,2017-10,619821
+Phetchaburi,2017-11,725422
+Phetchaburi,2017-12,604196
+Sukhumvit,2017-01,1177911
+Sukhumvit,2017-02,1172343
+Sukhumvit,2017-03,1337877
+Sukhumvit,2017-04,1108561
+Sukhumvit,2017-05,1789126
+Sukhumvit,2017-06,1280862
+Sukhumvit,2017-07,1220291
+Sukhumvit,2017-08,1323064
+Sukhumvit,2017-09,1269907
+Sukhumvit,2017-10,1181109
+Sukhumvit,2017-11,1280328
+Sukhumvit,2017-12,1202684
+Queen Sirikit national conv. centre,2017-01,272170
+Queen Sirikit national conv. centre,2017-02,420653
+Queen Sirikit national conv. centre,2017-03,470661
+Queen Sirikit national conv. centre,2017-04,464945
+Queen Sirikit national conv. centre,2017-05,513012
+Queen Sirikit national conv. centre,2017-06,418729
+Queen Sirikit national conv. centre,2017-07,332996
+Queen Sirikit national conv. centre,2017-08,414773
+Queen Sirikit national conv. centre,2017-09,413821
+Queen Sirikit national conv. centre,2017-10,507732
+Queen Sirikit national conv. centre,2017-11,364982
+Queen Sirikit national conv. centre,2017-12,279723
+Khlongtoei,2017-01,69947
+Khlongtoei,2017-02,70363
+Khlongtoei,2017-03,79125
+Khlongtoei,2017-04,63034
+Khlongtoei,2017-05,112320
+Khlongtoei,2017-06,74233
+Khlongtoei,2017-07,70292
+Khlongtoei,2017-08,78977
+Khlongtoei,2017-09,75271
+Khlongtoei,2017-10,67466
+Khlongtoei,2017-11,75993
+Khlongtoei,2017-12,69331
+Lumphini,2017-01,348201
+Lumphini,2017-02,329321
+Lumphini,2017-03,379223
+Lumphini,2017-04,290454
+Lumphini,2017-05,556312
+Lumphini,2017-06,361466
+Lumphini,2017-07,333586
+Lumphini,2017-08,374945
+Lumphini,2017-09,355790
+Lumphini,2017-10,311605
+Lumphini,2017-11,366143
+Lumphini,2017-12,313324
+Silom,2017-01,653559
+Silom,2017-02,619227
+Silom,2017-03,701959
+Silom,2017-04,584165
+Silom,2017-05,967648
+Silom,2017-06,657801
+Silom,2017-07,620683
+Silom,2017-08,699040
+Silom,2017-09,671964
+Silom,2017-10,602609
+Silom,2017-11,674461
+Silom,2017-12,594151
+Samyan,2017-01,313410
+Samyan,2017-02,307130
+Samyan,2017-03,368727
+Samyan,2017-04,282818
+Samyan,2017-05,451870
+Samyan,2017-06,307426
+Samyan,2017-07,303250
+Samyan,2017-08,349117
+Samyan,2017-09,381100
+Samyan,2017-10,322072
+Samyan,2017-11,347470
+Samyan,2017-12,271622
+Hualamphong,2017-01,484775
+Hualamphong,2017-02,452491
+Hualamphong,2017-03,473740
+Hualamphong,2017-04,409203
+Hualamphong,2017-05,580946
+Hualamphong,2017-06,424202
+Hualamphong,2017-07,436779
+Hualamphong,2017-08,471327
+Hualamphong,2017-09,443477
+Hualamphong,2017-10,450850
+Hualamphong,2017-11,485565
+Hualamphong,2017-12,458129
